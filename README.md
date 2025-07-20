@@ -1,4 +1,4 @@
-# Vipin Kumar Soni - GitHub Profile README
+# Vipin Kumar Soni 
 
 ![Header Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
@@ -22,42 +22,37 @@ I'm a **Software Engineer** specializing in **MERN Stack development** and **AI/
 
 ## 🛠️ Tech Stack & Skills
 
-### Programming Languages
-<p align="left">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/JS.png?raw=true" height="40" width="40" alt="JavaScript">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/c++.png?raw=true" height="40" width="40" alt="C++">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/c.png?raw=true" height="40" width="40" alt="C">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/java.png?raw=true" height="40" width="40" alt="Java">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/php.png?raw=true" height="40" width="40" alt="PHP">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/golang.png?raw=true" height="40" width="40" alt="Go">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/r-5-283170.png" height="40" width="40" alt="R">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>💻 Programming Languages</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,php,go&perline=4" alt="Programming Languages"/>
+    </td>
+    <td align="center" width="25%">
+      <h3>🌐 Frontend Development</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,redux,angular&perline=4" alt="Frontend Technologies"/>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️ Backend & Database</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&perline=3" alt="Backend & Database"/>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛠️ Tools & Platforms</h3>
+      <br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,linux,docker&perline=4" alt="Tools & Platforms"/>
+    </td>
+  </tr>
+</table>
 
-### Web Development Technologies
-<p align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" height="40" width="40" alt="React">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/html.png?raw=true" height="40" width="40" alt="HTML5">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/css.png?raw=true" height="40" width="40" alt="CSS3">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/bootstrap.png?raw=true" height="40" width="40" alt="Bootstrap">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/redux-283024.png" height="40" width="40" alt="Redux">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" height="40" width="40" alt="Angular">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/flutter-2038877-1720090.png" height="40" width="40" alt="Flutter">
-</p>
-
-### Database Technologies
-<p align="left">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/mongodb.png?raw=true" height="40" width="40" alt="MongoDB">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/sql.png?raw=true" height="40" width="40" alt="SQL">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/postgres.png?raw=true" height="40" width="40" alt="PostgreSQL">
-</p>
-
-### Development Tools & Utilities
-<p align="left">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/git.png?raw=true" height="40" width="40" alt="Git">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/vs.png?raw=true" height="40" width="40" alt="VS Code">
-  <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/jupyter-notebook.png?raw=true" height="40" width="40" alt="Jupyter">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/figma-3521426-2944870.png" height="40" width="40" alt="Figma">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/adobe-44-129898.png" height="40" width="40" alt="Adobe">
+### 🤖 AI/ML & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter" alt="AI/ML Technologies"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" width="48" height="48" alt="NumPy"/>
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" width="48" height="48" alt="Pandas"/>
 </p>
 
 ---
@@ -114,15 +109,37 @@ I'm a **Software Engineer** specializing in **MERN Stack development** and **AI/
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Coding Stats & Achievements
 
+<div align="center">
+  
+### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipinofficial&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vipinofficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinofficial&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinofficial&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinofficial&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
+
+### 💻 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vipinofficial?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+### 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vipinofficial&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinofficial&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+</div>
 
 ---
 
@@ -165,147 +182,6 @@ I'm a **Software Engineer** specializing in **MERN Stack development** and **AI/
 <p align="center">
   <strong>⭐ From [Vipin Kumar Soni](https://github.com/vipinofficial)</strong>
 </p>
-
-## Template 1: General Professional Introduction
-
-**Subject: Software Engineer | MERN Stack & AI/ML Specialist**
-
-Hi [Name],
-
-I hope this message finds you well! I'm Vipin Kumar Soni, a Software Engineer specializing in MERN Stack development and AI/ML technologies. I recently graduated with a B.Tech in Artificial Intelligence & Machine Learning from USAR (2021-2025).
-
-**My Background:**
-- Frontend Developer with hands-on experience at IBM, Prodigal AI, and Xero Technologies
-- Proficient in MERN Stack (MongoDB, Express, React, Node.js)
-- Strong foundation in AI/ML with practical chatbot development experience
-- Certified in Google AI Essentials and Project-Based Learning
-
-I'm passionate about creating responsive, user-friendly web applications and developing intelligent systems. I'd love to connect and explore potential collaboration opportunities or simply expand my professional network.
-
-Feel free to check out my portfolio: [vipinofficial.github.io/Vipinportfolio/](vipinofficial.github.io/Vipinportfolio/)
-
-Best regards,
-Vipin Kumar Soni
-
----
-
-## Template 2: For Recruiters/HR Professionals
-
-**Subject: Recent AI/ML Graduate | Frontend Developer Seeking Opportunities**
-
-Hello [Name],
-
-I'm reaching out as a recent B.Tech graduate in Artificial Intelligence & Machine Learning, actively seeking opportunities in software development roles.
-
-**Key Highlights:**
-- 4+ months of AI internship experience at Prodigal AI
-- Frontend development experience with IBM and Xero Technologies
-- Hands-on experience with MERN Stack and responsive web design
-- Successfully developed chatbots using NLP techniques
-- Google AI Essentials certified
-
-**Technical Skills:**
-- Frontend: React, JavaScript, HTML/CSS, Responsive Design
-- Backend: Node.js, Express, MongoDB
-- AI/ML: Natural Language Processing, Chatbot Development
-- Tools: Streamlit, Project Management
-
-I'm particularly interested in roles that combine my web development expertise with AI/ML applications. Would love to discuss how my skills align with opportunities at [Company Name].
-
-Portfolio: [vipinofficial.github.io/Vipinportfolio/](vipinofficial.github.io/Vipinportfolio/)
-
-Thank you for your time!
-Vipin Kumar Soni
-
----
-
-## Template 3: For Tech Professionals/Networking
-
-**Subject: Fellow Developer | AI/ML & MERN Stack Enthusiast**
-
-Hi [Name],
-
-I came across your profile and was impressed by your work in [mention their field/company]. I'm Vipin, a Software Engineer passionate about the intersection of web development and artificial intelligence.
-
-**What I bring:**
-- MERN Stack development with focus on user experience
-- AI/ML implementation, particularly in chatbot development
-- Team leadership and project management experience
-- Active contributor to tech communities (Samsung Community blogger)
-
-I recently completed internships at IBM and Prodigal AI, where I worked on frontend development and AI projects respectively. I'm always eager to learn from experienced professionals like yourself and share insights about emerging technologies.
-
-Would you be open to connecting? I'd love to hear about your journey and perhaps discuss industry trends.
-
-Best,
-Vipin Kumar Soni
-📧 vipinkumarsoni24@gmail.com
-
----
-
-## Template 4: For Startup/Company-Specific Approach
-
-**Subject: Full-Stack Developer | Ready to Contribute to [Company Name]**
-
-Hello [Name],
-
-I hope you're doing well! I'm Vipin Kumar Soni, and I've been following [Company Name]'s innovative work in [specific area]. As a Software Engineer with expertise in MERN Stack and AI/ML, I'm excited about the possibility of contributing to your team.
-
-**Why I'd be a great fit:**
-- Proven experience in developing responsive web applications
-- Strong background in both frontend development and AI implementation
-- Recent hands-on experience with modern frameworks and technologies
-- Demonstrated ability to work in fast-paced environments (multiple internships)
-- Excellent problem-solving and team collaboration skills
-
-**Recent Achievements:**
-- Successfully developed chatbots using NLP at Prodigal AI
-- Created responsive landing pages at IBM and Xero Technologies
-- Completed Google AI Essentials and multiple web development certifications
-
-I'd love to learn more about [Company Name]'s current projects and discuss how my skills could add value to your team.
-
-Looking forward to connecting!
-Vipin Kumar Soni
-
----
-
-## Template 5: Follow-up Message (After Initial Connection)
-
-**Subject: Thank you for connecting!**
-
-Hi [Name],
-
-Thank you for accepting my connection request! I appreciate you taking the time to connect.
-
-As mentioned, I'm a Software Engineer specializing in MERN Stack development and AI/ML. I'm currently exploring opportunities where I can leverage my technical skills and passion for creating innovative solutions.
-
-If you're ever looking for someone with:
-- Frontend development expertise (React, responsive design)
-- AI/ML knowledge (chatbot development, NLP)
-- Strong project management and team collaboration skills
-- Fresh perspective and eagerness to learn
-
-I'd be thrilled to discuss potential opportunities or even just chat about industry trends.
-
-Feel free to reach out anytime. I'm always happy to connect with fellow professionals!
-
-Best regards,
-Vipin
-
-**Portfolio:** [vipinofficial.github.io/Vipinportfolio/](vipinofficial.github.io/Vipinportfolio/)
-**Email:** vipinkumarsoni24@gmail.com
-
----
-
-## Quick Tips for Using These Templates:
-
-1. **Personalize each message** - Research the person/company and mention specific details
-2. **Keep it concise** - LinkedIn messages should be brief and to the point
-3. **Include a clear call-to-action** - What do you want them to do?
-4. **Follow up appropriately** - If no response after 1-2 weeks, a polite follow-up is okay
-5. **Proofread** - Always check for typos and grammatical errors
-6. **Be genuine** - Authenticity resonates better than generic messages
 
 ## Key Strengths to Highlight:
 - **Technical Versatility:** MERN Stack + AI/ML combination
