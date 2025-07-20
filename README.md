@@ -126,7 +126,7 @@ I'm a **Software Engineer** specializing in **MERN Stack development** and **AI/
 
 ### 💻 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vipinofficial?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/vipinkumarsoni?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 ### 🏆 GitHub Profile Trophy
