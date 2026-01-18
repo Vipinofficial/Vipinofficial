@@ -1,226 +1,170 @@
-# Vipin Kumar Soni 
-
-![Header Image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I am Vipin Kumar Soni!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vipin+Kumar+Soni;Full+Stack+Developer;AI%2FML+Engineer;MERN+Stack+Specialist" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
 </p>
 
-## 👨‍💻 About Me
-
-I'm a **Full Stack Developer & Machine Learning Engineer** specializing in **MERN Stack development** and **AI/ML technologies**. Recently graduated with a B.Tech in Artificial Intelligence & Machine Learning from USAR (2021-2025, 7.1 CGPA). I'm passionate about creating scalable backend solutions, AI model deployment, and automation that delivers 70% faster development and 40% better performance through advanced frontend optimization.
-
-### 🚀 Current Focus
-- **Full Stack Development**: Building scalable applications using MERN Stack
-- **AI/ML Deployment**: Developing and deploying intelligent systems
-- **Automation**: Creating automated workflows and backend solutions
-- **Training & Mentoring**: Conducting technical training sessions for students
+<p align="center">
+  <em>Building scalable solutions with 70% faster development & 40% better performance</em>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Quick Highlights
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>💻 Programming Languages</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=js,python,cpp,c&perline=4" alt="Programming Languages"/>
-    </td>
-    <td align="center" width="25%">
-      <h3>🌐 Frontend Development</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&perline=4" alt="Frontend Technologies"/>
-    </td>
-    <td align="center" width="25%">
-      <h3>⚙️ Backend & Database</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=3" alt="Backend & Database"/>
-    </td>
-    <td align="center" width="25%">
-      <h3>🛠️ Tools & Platforms</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes&perline=4" alt="Tools & Platforms"/>
-    </td>
-  </tr>
+```javascript
+const vipin = {
+    location: "Delhi, India",
+    role: ["Full Stack Developer", "ML Engineer", "Python Trainer"],
+    techStack: {
+        frontend: ["React.js", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express.js", "FastAPI"],
+        database: ["MongoDB", "Firebase"],
+        aiml: ["TensorFlow", "Streamlit", "LangGraph"],
+        devops: ["Docker", "Kubernetes", "Git", "CI/CD"]
+    },
+    currentFocus: "Building AI-powered automation platforms",
+    achievements: ["70% workflow automation", "40% performance boost", "120+ students trained"]
+};
+```
+
+---
+
+## 💼 Experience Snapshot
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 **Trainer** @ Teach To Tech
+*Aug 2025 - Present*
+- Training 120+ students in Python
+- Interactive coding projects
+- High engagement rate
+
+</td>
+<td width="50%">
+
+### 🤖 **AI Intern** @ Prodigal AI
+*Sep - Dec 2024*
+- Built Streamlit AI platform
+- 70% reduction in manual tasks
+- 60% faster task completion
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚛️ **React Developer** @ IBM
+*Jul - Aug 2024*
+- Optimized chatbot UI
+- Load time: 8s → 4.8s
+- 3 production releases
+
+</td>
+<td width="50%">
+
+### 🎓 **B.Tech AI & ML** @ USAR
+*2021 - 2025*
+- CGPA: 7.1
+- AI/ML Specialization
+
+</td>
+</tr>
 </table>
 
-### 🤖 AI/ML & Data Science
+---
+
+## 🛠️ Tech Arsenal
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI/ML Technologies"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48" alt="Streamlit"/>
-  <img src="https://raw.githubusercontent.com/numpy/numpy/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg" width="48" height="48" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,tailwind,bootstrap,firebase,docker,kubernetes,git,github,vscode,tensorflow,pytorch&perline=8" />
 </p>
 
 ---
 
-## 💼 Professional Experience
-
-### 🔹 **Trainer** - Teach To Tech
-*August 2025 - Current | RKGIT, Delhi, India*
-- Conducted Python training for 2 batches with 60 students each, delivering sessions on core concepts, advanced libraries, and practical projects to strengthen programming skills
-- Designed and facilitated interactive coding exercises and real-world projects, resulting in improved problem-solving abilities and high engagement among 120+ students
-
-### 🔹 **Artificial Intelligence Intern** - Prodigal AI  
-*September 2024 - December 2024 (4 months) | Delhi, India*
-- Built Streamlit-based AI platform managing YouTube and Reddit content, eliminating 70% of manual workflow tasks
-- Architected RESTful APIs automating backend operations, reducing task completion time from 5 hours to 2 hours
-- Integrated cross-platform publishing system, accelerating content distribution speed by 20%
-
-### 🔹 **Software Developer Intern (React.js)** - IBM
-*July 2024 - August 2024 (2 months) | Remote*
-- Engineered dynamic frontend components for internal chatbot serving 50+ daily active users
-- Optimized application performance through lazy loading implementation, decreasing load time from 8s to 4.8s
-- Contributed to 3 production releases within 8-person Agile team, delivering features ahead of sprint deadlines
-
----
-
-## 🚀 Projects & Research
-
-### 🔬 **PestReKNet-X Research Paper**
-Developed pest disease detection model achieving 94% accuracy in crop senescence identification  
-[📄 View Paper](link-to-paper)
-
-### 🎭 **Bollywood Celebrity Face Recognition**
-Implemented CNN-based facial recognition system with 89% accuracy rate  
-[💻 GitHub Repository](https://github.com/vipinofficial/bollywood-face-recognition)
-
-### 🤖 **Customer Support Bot Using LangGraph**
-Created airline customer support automation reducing query resolution time by 60%  
-[💻 GitHub Repository](https://github.com/vipinofficial/customer-support-bot)
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology - Artificial Intelligence & Machine Learning**  
-*University School of Automation and Robotics (USAR), Delhi, India*  
-*June 2021 - June 2025 | CGPA: 7.1*
-
----
-
-## 🏆 Certifications
-
-### Cloud & AI
-- **Google AI Essentials**
-- **Google Cloud Prompt Design in Vertex AI**
-- **IBM Artificial Intelligence Fundamentals**
-
-### Project Management
-- **IBM Project Management Professional**
-
-### Development
-- **Web Development Fundamentals**
-- **AI Text Summarizer App Development (Project-Based)**
-
----
-
-## 📊 GitHub Analytics
+## 🏆 Featured Projects
 
 <div align="center">
-  
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vipinofficial&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinofficial&layout=compact&langs_count=8&theme=radical"/>
-</p>
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinofficial&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-### 💻 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vipinkumarsoni?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
-</p>
-
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipinofficial&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-### 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinofficial&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
-</p>
+| Project | Tech | Impact |
+|---------|------|--------|
+| 🔬 **[PestReKNet-X](link)** | CNN, Deep Learning | 94% accuracy in crop disease detection |
+| 🎭 **[Celebrity Face Recognition](github-link)** | CNN, OpenCV | 89% facial recognition accuracy |
+| 🤖 **[Airline Support Bot](github-link)** | LangGraph, NLP | 60% faster query resolution |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://vipinofficial.github.io/Vipinportfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vipinofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinofficial&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinofficial&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🎯 Key Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Development_Speed-↑70%25-00D9FF?style=for-the-badge&logo=speedtest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance-↑40%25-00D9FF?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Students_Trained-120+-00D9FF?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Task_Automation-70%25-00D9FF?style=for-the-badge&logo=automattic&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://vipin-developer-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:vipinkumarsoni24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vipinkumarsoniofficial">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/vipinkumarsoniofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/vipinkumarsoni">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.kaggle.com/vipin068">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <a href="https://kaggle.com/vipin068">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://github.com/vipinofficial">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💡 What I'm Currently Working On
-
-- 🔭 Training students in Python programming and advanced concepts
-- 🌱 Building AI-powered automation platforms
-- 👯 Looking to collaborate on MERN Stack and AI/ML projects
-- 🤔 Exploring advanced deployment strategies with Docker and Kubernetes
-- 💬 Ask me about **React.js, Node.js, AI/ML, FastAPI, or Automation**
-
----
-
-## 📈 Key Achievements
-
-- ✅ Achieved **70% faster development** through advanced frontend optimization
-- ✅ Improved application performance by **40%** via optimization techniques
-- ✅ Reduced task completion time from **5 hours to 2 hours** through API automation
-- ✅ Eliminated **70% of manual workflow tasks** with AI platform development
-- ✅ Trained **120+ students** in Python programming with high engagement
-- ✅ Optimized load time from **8s to 4.8s** through lazy loading implementation
-
----
-
-## 🎯 Professional Goals
-
-- Build and deploy scalable AI/ML solutions for real-world problems
-- Create automation systems that improve workflow efficiency
-- Mentor aspiring developers and share knowledge through training
-- Contribute to open-source projects in the MERN and AI/ML ecosystem
-- Lead development teams on innovative technical projects
-
----
+## 🏅 Certifications
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipinofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<p align="center">
-  <strong>⭐ From <a href="https://github.com/vipinofficial">Vipin Kumar Soni</a></strong>
+  <img src="https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-054ADA?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-Project_Management-054ADA?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certificate-Web_Development-00D9FF?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
 ---
 
-## 💼 Technical Expertise
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipinofficial&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views"/>
+</p>
 
-**Methodologies:** Agile Development, CI/CD Pipelines  
-**Specialized Skills:** RESTful APIs, AI Model Deployment, Performance Optimization, Backend Automation  
-**Current Location:** Delhi, India  
-**Phone:** +91-9868-3528-65
+<p align="center">
+  <sub>💜 Crafted with passion by <a href="https://github.com/vipinofficial">Vipin Kumar Soni</a></sub>
+</p>
