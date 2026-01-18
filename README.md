@@ -35,7 +35,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
 const vipin = {
@@ -256,7 +255,7 @@ Developed an advanced pest disease detection model using deep learning technique
 **Tech Stack:**  
 `Deep Learning` `CNNs` `TensorFlow` `Python` `Image Processing`
 
-📄 **[View Research Paper](#)**
+📄 **[View Research Paper](https://royalsocietypublishing.org/rsos/article/12/12/250336/364058/PestReKNet-X-integrating-explainable-artificial)**
 
 </td>
 <td width="50%" valign="top">
@@ -276,7 +275,7 @@ Implemented a sophisticated facial recognition system using Convolutional Neural
 **Tech Stack:**  
 `CNN` `OpenCV` `TensorFlow` `Python` `Image Processing`
 
-💻 **[GitHub Repository](#)**
+💻 **[GitHub Repository](https://github.com/Vipinofficial/bollywood-face-match)**
 
 </td>
 </tr>
@@ -298,7 +297,7 @@ Created an intelligent airline customer support automation system using advanced
 **Tech Stack:**  
 `LangGraph` `NLP` `Python` `FastAPI` `Streamlit`
 
-💻 **[GitHub Repository](#)**
+💻 **[GitHub Repository](https://github.com/Vipinofficial/Customer_Support_Bot)**
 
 </td>
 <td width="50%" valign="top">
